@@ -40,10 +40,10 @@ I have taken this dataset from kaggle .This classic dataset contains the prices 
  1. I have the distribution of the cut ,color and clarity column distribution using histogram by using seaborn and matplotlib.pyplot
  2. then , I have plotted a scatterplot taking x = carat and y = depth using seaborn scatterplot
 ## Filtering 
- #### 1. Find the best diamond having cost  less than 1000$ and has best color and clarity .
+ 1. Find the best diamond having cost  less than 1000$ and has best color and clarity .
          I have executed the code and found that there is only 1 matches the requirement 
-      2. Find the diamond that have length(x) > 5 mm and bredth(y) > 5mm and depth(z) > 5mm
-      3. Getting the groups using Groupby function 
+ 2. Find the diamond that have length(x) > 5 mm and bredth(y) > 5mm and depth(z) > 5mm
+ 3. Getting the groups using Groupby function 
 ## Creating Pivot Table
   1. Using df.pivot_tabel
  
